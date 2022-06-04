@@ -1,1 +1,2 @@
  Hi this is tags file
+Hi this is tags2 file
